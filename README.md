@@ -46,5 +46,5 @@ Algorithem which is used for fix this is known as Bubble sort.How do we do it?
  >This changes will return number 4 which is smallest missing number.
  
  # conclusion
- >To conclude,i have shown above piece of code of bubble sort algorithem and finding greatest and smallest number.In all of that we should keep one thing in mind that is quality of code.If you have better solution comment below.
+ >To conclude,i have shown above piece of code of bubble sort algorithem and finding greatest and smallest number.In all of that we should keep one thing in mind that is quality of code.
  >Thank you so much. 
